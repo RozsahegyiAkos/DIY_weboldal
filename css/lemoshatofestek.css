@@ -47,10 +47,6 @@ table td {
     text-align: center;
 }
 
-.footer {
-    background-color: #1E5A86;
-    color: white;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+p   {
+    font-size: 20px;
 }
