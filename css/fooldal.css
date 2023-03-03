@@ -14,7 +14,7 @@ h1 {
 nav {
     background-color: #1E5A86;
     position: relative;
-    z-index: 5;
+    z-index: 1;
 }
 
 nav a {
