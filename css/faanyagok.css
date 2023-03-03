@@ -2,6 +2,7 @@ body {
     background-image: url(../imgs/trees.png);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: "Roboto Slab";
 }
 
 h1 {
@@ -39,8 +40,4 @@ a:hover{
 
 .card {
     border-color: white;
-}
-
-.btn {
-    text-align: center;
 }
