@@ -1,0 +1,36 @@
+body {
+    background-image: url(../imgs/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+}
+
+nav {
+    background-color: #1E5A86;
+    position: relative;
+    z-index: 5;
+}
+
+nav a {
+    color: white;
+}
+
+nav a:first-child img {
+    width: 25px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #1E5A86;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
