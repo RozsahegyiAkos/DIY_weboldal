@@ -14,7 +14,7 @@ h1 {
 nav {
     background-color: #1E5A86;
     position: relative;
-    z-index: 5;
+    z-index: 1;
 }
 
 nav a {
@@ -35,18 +35,4 @@ a:hover{
     position: fixed;
     bottom: 0;
     width: 100%;
-}
-
-table th {
-    text-align: center;
-    font-size: 40px;
-}
-
-table td {
-    font-size: 30px;
-    text-align: center;
-}
-
-p   {
-    font-size: 20px;
 }

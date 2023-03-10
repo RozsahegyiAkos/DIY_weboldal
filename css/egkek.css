@@ -1,8 +1,7 @@
 body {
-    background-image: url(../imgs/trees.png);
+    background-image: url(../imgs/paintsbg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: "Roboto Slab";
 }
 
 h1 {

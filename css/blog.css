@@ -36,3 +36,13 @@ a:hover{
     bottom: 0;
     width: 100%;
 }
+
+.box {
+    border: 1px solid #1E5A86;
+}
+
+.box h3 {
+    background-color: #1E5A86;
+    color: #fff;
+    padding: .5rem;
+}
